@@ -10,14 +10,14 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="/data/2021_Business_License.csv">
+        <entry key="/data/2015_Business_License.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
             </Attribute>
           </value>
         </entry>
-        <entry key="/test.csv">
+        <entry key="/data/2021_Business_License.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
